@@ -1,0 +1,31 @@
+body {
+    text-align: center;
+    background-color: aliceblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.list {
+    display: inline-block;
+    text-align: left;
+}
+
+li {
+    padding: 6px;
+}
+
+.header {
+    background-color: rgba(0, 0, 0, 0.247);
+    color: white;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.title {
+    font-size: 32px;
+    font-weight: bold;
+    background-color: antiquewhite;
+    display: flex;
+}
